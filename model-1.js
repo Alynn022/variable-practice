@@ -13,3 +13,10 @@ var male = true
 var friends = ['Ralphie', 'Katsu', 'Boba']
 var favoriteToys = ['Tennis ball', 'Squirrel plush', 'Kong']
 var parentsName = ['Lynn','Jimmy']
+
+let dog = {
+  name: "Mochi",
+  age: 11,
+  breed: "American Eskimo",
+
+}
