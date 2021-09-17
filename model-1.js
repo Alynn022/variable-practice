@@ -9,3 +9,7 @@ var siblings = 1
 var dog = true
 var puppy = false
 var male = true
+
+var friends = ['Ralphie', 'Katsu', 'Boba']
+var favoriteToys = ['Tennis ball', 'Squirrel plush', 'Kong']
+var parentsName = ['Lynn','Jimmy']
